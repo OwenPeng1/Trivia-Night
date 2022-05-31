@@ -1,0 +1,116 @@
+.logo {
+    margin-bottom: 20px;
+  }
+
+  body {
+    padding: 20px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff ;
+  }
+  
+  .ratings-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 15px;
+  }
+
+  .likes {
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 0 15px
+  }
+
+  .dislikes{
+      font-size: 1.5rem;
+      font-weight: 600;
+      padding: 0 15px
+  }
+
+#next-button{
+    font-size: 2rem;
+    color: #7cfc00;
+    background-color:#000000;
+    border: none;
+    border-radius: 6px;
+    font-weight: 600;
+    
+}
+
+#next-button:hover{
+    background-color:#7cfc00;
+    color:#000000;
+    box-shadow: 0px 0px 40px #7cfc00
+}
+
+
+#submit{
+    height: 25px;
+    width: 165px;
+}
+
+.submit-section{
+    padding-top:10px
+}
+
+#submit-button{
+    height:30px;
+    color:#8f00ff;
+    background-color: #000000;
+    border:none;
+    font-size: 1.5rem;
+    padding-bottom:10px;
+    vertical-align: -3px;
+    border-radius:6px;
+    
+}
+
+#submit-button:hover{
+    color: #000000;
+    background-color:#8f00ff;
+    box-shadow: 0px 0px 40px #8f00ff
+    
+}
+
+#fact-setup{
+    color: #ffe135
+}
+
+.likes{
+    color: #00b7eb;
+}
+
+#like-button{
+    background-color:#00b7eb;
+    border-radius:6px
+}
+
+#like-button:hover{
+    box-shadow: 0px 0px 40px #00b7eb
+}
+
+.dislikes{
+    color: #ff00ff
+}
+
+#dislike-button{
+    background-color: #ff00ff;
+    border-radius:6px
+}
+
+#dislike-button:hover{
+    box-shadow: 0px 0px 40px #ff00ff
+}
+
+#credits{
+    color: #ffe135;
+    position: absolute;
+    bottom: 10px;
+    margin-right: 100px; 
+    left:700px
+}
+
+
+
+
